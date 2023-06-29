@@ -1,4 +1,4 @@
-# GnosisChain_SporeToken-DAO-Monorepo
+# GnosisChain SporeToken DAO Monorepo
 
 Public monorepo for the Spore Token &amp; DAO governance based on Tally &amp; Openzeppelin on GnosisChain
 
@@ -7,3 +7,6 @@ Public monorepo for the Spore Token &amp; DAO governance based on Tally &amp; Op
 
 ### SporeGovernorDAO.sol [Governor]
 - https://gnosisscan.io/address/0x96853087C9E364FE9554fD6FCFE13BcD942b04d5
+
+### Tally DAO
+- https://www.tally.xyz/gov/spore-engineering
